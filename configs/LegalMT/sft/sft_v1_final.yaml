@@ -3,7 +3,7 @@ description: "FINAL: aligned v1 links (join_centred_caps), split v0 (train_fit -
 
 aligned_version: v1
 split_version: v0
-infer_config: hymt15_hf_greedy
+infer_config: hymt2_hf_greedy
 infer_overrides: {layout: {join_centred_caps: true}}
 
 directions: [en2vi, vi2en]
