@@ -1,0 +1,14 @@
+extends: _base_hymt.yaml
+
+model:
+  repo_id: tencent/HY-MT1.5-1.8B
+  revision: dbad03788f49709801014c95d481a514c272ca52
+
+backend:
+  name: hf
+  device: null
+  dtype: auto
+  batch_size: 8
+  max_batch_tokens: 32768
+  attn_implementation: null
+  lora_merge: true

@@ -1,0 +1,11 @@
+data_root: "data/raw/Dataset"
+
+splits:
+  train: "train/en-vi-train.csv"
+  public_test: "public test/en-vi-public_test.csv"
+  description_pdf: "Description.pdf"
+
+artifacts_root_env: "LEGALMT_ARTIFACTS_ROOT"
+artifacts_root_default: "../legalmt-artifacts"
+
+hf_cache_default: "~/.cache/huggingface"

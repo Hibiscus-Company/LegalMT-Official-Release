@@ -1,0 +1,8 @@
+extends: hymt15_vllm_greedy.yaml
+
+model:
+  repo_id: tencent/HY-MT1.5-1.8B-GPTQ-Int4
+  revision: 614b90aaac3987fbe4d6b3c976000b8c996cf5ca
+
+backend:
+  quantization: gptq_marlin

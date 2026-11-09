@@ -1,0 +1,343 @@
+en	vi	vi_variants	en_variants	note
+law	luật	bộ luật		instrument
+civil code	bộ luật dân sự			instrument
+criminal code	bộ luật hình sự		penal code	instrument
+labor code	bộ luật lao động		labour code	instrument
+decree	nghị định			instrument
+circular	thông tư			instrument
+joint circular	thông tư liên tịch		joint-circular	instrument
+resolution	nghị quyết			instrument
+ordinance	pháp lệnh			instrument
+directive	chỉ thị			instrument
+constitution	hiến pháp			instrument
+legislative document	văn bản quy phạm pháp luật		legal normative document|legislative documents|normative legal document|legal document	instrument
+contract	hợp đồng			instrument
+international treaty	điều ước quốc tế		treaty	instrument
+appendix	phụ lục		annex	structure
+license	giấy phép		licence|permit	instrument
+dossier	hồ sơ		application file|dossiers	instrument
+written record	biên bản		record|minutes	instrument
+article	điều			structure
+chapter	chương			structure
+clause	khoản			structure
+point	điểm			structure
+general provisions	quy định chung		general regulations|general rules	structure
+scope of regulation	phạm vi điều chỉnh		scope of adjustment|governing scope|regulation scope|scope	structure
+subjects of application	đối tượng áp dụng		regulated entities|applicable entities|applicable subjects|subject of application|subjects of applicability|entities subject to	structure
+interpretation of terms	giải thích từ ngữ		definitions|terms and definitions|definition of terms|glossary	structure
+entry into force	hiệu lực thi hành	có hiệu lực	effectiveness|take effect|come into force|enter into force	structure
+transitional provisions	điều khoản chuyển tiếp	quy định chuyển tiếp	transitional provision|transition provisions|transitional clause	structure
+socialist republic of vietnam	cộng hòa xã hội chủ nghĩa việt nam		socialist republic of viet nam	structure
+independence freedom happiness	độc lập tự do hạnh phúc			structure
+government	chính phủ			institution
+prime minister	thủ tướng chính phủ	thủ tướng		institution
+minister	bộ trưởng			institution
+ministry of justice	bộ tư pháp			institution
+ministry of finance	bộ tài chính			institution
+ministry of public security	bộ công an			institution
+ministry of natural resources and environment	bộ tài nguyên và môi trường			institution
+ministry of foreign affairs	bộ ngoại giao			institution
+ministry of national defence	bộ quốc phòng		ministry of national defense|ministry of defence|ministry of defense	institution
+ministry of health	bộ y tế			institution
+ministry of transport	bộ giao thông vận tải		ministry of transportation	institution
+ministry of agriculture and rural development	bộ nông nghiệp và phát triển nông thôn			institution
+national assembly	quốc hội			institution
+national assembly standing committee	ủy ban thường vụ quốc hội		standing committee of the national assembly	institution
+people's committee	ủy ban nhân dân		peoples committee	institution
+people's council	hội đồng nhân dân		peoples council	institution
+provincial people's committee	ủy ban nhân dân cấp tỉnh	ủy ban nhân dân tỉnh	provincial-level people's committee|people's committee of province	institution
+district people's committee	ủy ban nhân dân cấp huyện	ủy ban nhân dân huyện	district-level people's committee|people's committee of district	institution
+commune people's committee	ủy ban nhân dân cấp xã	ủy ban nhân dân xã	commune-level people's committee|communal people's committee|people's committee of commune	institution
+people's court	tòa án nhân dân		peoples court	institution
+supreme people's court	tòa án nhân dân tối cao			institution
+court	tòa án			institution
+people's procuracy	viện kiểm sát nhân dân		people's procuratorate	institution
+supreme people's procuracy	viện kiểm sát nhân dân tối cao		supreme people's procuratorate	institution
+procuracy	viện kiểm sát		procuratorate	institution
+procurator	kiểm sát viên		prosecutor	litigation
+judge	thẩm phán			litigation
+court clerk	thư ký tòa án	thư ký phiên tòa	clerk|court secretary	litigation
+trial panel	hội đồng xét xử		adjudication panel|panel of judges|trial council	litigation
+investigating agency	cơ quan điều tra		investigation agency|investigative agency|investigating authority|investigation authority	criminal
+investigator	điều tra viên			criminal
+judgment enforcement agency	cơ quan thi hành án	cơ quan thi hành án dân sự	enforcement agency|judgment execution agency|civil judgment enforcement agency	litigation
+state audit office	kiểm toán nhà nước		state audit|state audit office of vietnam	institution
+state bank of vietnam	ngân hàng nhà nước việt nam	ngân hàng nhà nước	state bank	institution
+tax authority	cơ quan thuế		tax agency|tax office|tax department	tax
+police	công an		public security	institution
+notarization	công chứng		notarize|notarized|notarial	legal_services
+lawyer	luật sư		attorney|counsel	legal_services
+law firm	công ty luật	văn phòng luật sư|tổ chức hành nghề luật sư	law office|law-practicing organization|law practice organization|law practicing organization	legal_services
+vietnam bar federation	liên đoàn luật sư việt nam		viet nam bar federation	legal_services
+legal aid	trợ giúp pháp lý			legal_services
+legal consultancy	tư vấn pháp luật		legal consulting|legal advice|legal counseling|legal counselling	legal_services
+bailiff	thừa phát lại			legal_services
+arbitration	trọng tài		arbitrator|arbitral	litigation
+mediation	hòa giải		conciliation|reconciliation|mediate	litigation
+judicial expertise	giám định tư pháp		judicial assessment|judicial examination|forensic examination	litigation
+auction	đấu giá		auctioning	business
+civil transaction	giao dịch dân sự			civil
+capacity for civil acts	năng lực hành vi dân sự		civil act capacity|legal capacity|civil capacity|capacity for civil conduct	civil
+juridical person	pháp nhân		legal person|legal entity|juridical entity	civil
+ownership	quyền sở hữu	sở hữu	ownership right|right of ownership	civil
+inheritance	thừa kế		succession|inherit|inherited	civil
+heir	người thừa kế		successor	civil
+compensation for damage	bồi thường thiệt hại		compensation for damages|damages compensation|compensate for damage	civil
+rights and obligations	quyền và nghĩa vụ		rights and duties|rights and responsibilities	civil
+secured transaction	giao dịch bảo đảm		security transaction|secured transactions	civil
+mortgage	thế chấp		mortgaged	civil
+pledge	cầm cố		pledged	civil
+statute of limitations	thời hiệu		limitation period|prescriptive period	civil
+force majeure	bất khả kháng	sự kiện bất khả kháng		civil
+marriage	hôn nhân		marital	family
+divorce	ly hôn		divorced	family
+spouse	vợ chồng		husband and wife|spouses|married couple	family
+guardian	người giám hộ	giám hộ	guardianship	family
+birth registration	đăng ký khai sinh	khai sinh	birth certificate|register birth|registration of birth	family
+civil status	hộ tịch		civil status registration|civil registration	family
+permanent residence	thường trú		permanent resident|permanently reside	admin
+temporary residence	tạm trú		temporary resident|temporarily reside	admin
+nationality	quốc tịch		citizenship	admin
+identity card	căn cước công dân	chứng minh nhân dân|thẻ căn cước|căn cước	citizen identity card|id card|citizen identification|identification card	admin
+social insurance	bảo hiểm xã hội			labour
+health insurance	bảo hiểm y tế			labour
+unemployment insurance	bảo hiểm thất nghiệp			labour
+labor contract	hợp đồng lao động		labour contract|employment contract	labour
+administrative violation	vi phạm hành chính		administrative offence|administrative offense|administrative violations	admin
+administrative penalty	xử phạt vi phạm hành chính	xử phạt	penalty|sanction|sanctioning|penalize|penalties	admin
+fine	phạt tiền	tiền phạt|mức phạt	fines|fined|monetary fine	admin
+warning	cảnh cáo		caution	admin
+remedial measures	biện pháp khắc phục hậu quả		remedial measure|measures to remediate consequences|consequence remediation measures|remedy consequences	admin
+confiscation	tịch thu		confiscate|confiscated|forfeiture	admin
+exhibits and instruments	tang vật phương tiện	tang vật	exhibits|material evidence|instrumentalities	admin
+suspension	đình chỉ		suspend|suspended	admin
+competence to impose penalties	thẩm quyền xử phạt		power to impose penalties|authority to impose penalties|power to sanction|sanctioning power|competence to sanction|sanctioning authority	admin
+state agency	cơ quan nhà nước		state authority|state body|government agency|state organ	admin
+public employee	viên chức		public servant	admin
+complaint	khiếu nại		complain	admin
+denunciation	tố cáo		denounce|accusation|whistleblowing	admin
+administrative procedure	thủ tục hành chính		administrative procedures|administrative formalities	admin
+one-stop shop	một cửa		single window|one-stop	admin
+business registration	đăng ký kinh doanh		business registration certificate	business
+enterprise	doanh nghiệp			business
+investor	nhà đầu tư		investors	business
+investment registration certificate	giấy chứng nhận đăng ký đầu tư		investment certificate	business
+joint-stock company	công ty cổ phần		joint stock company|shareholding company	business
+limited liability company	công ty trách nhiệm hữu hạn	công ty tnhh	llc|limited company	business
+private enterprise	doanh nghiệp tư nhân		sole proprietorship	business
+cooperative	hợp tác xã		co-operative	business
+representative office	văn phòng đại diện			business
+charter capital	vốn điều lệ			business
+tax	thuế		taxation|taxes	tax
+value added tax	thuế giá trị gia tăng		vat|value-added tax	tax
+personal income tax	thuế thu nhập cá nhân			tax
+corporate income tax	thuế thu nhập doanh nghiệp		enterprise income tax|business income tax	tax
+fees and charges	phí và lệ phí	phí lệ phí	fees and levies|charges and fees	tax
+state budget	ngân sách nhà nước			tax
+invoice	hóa đơn		invoices	tax
+bidding	đấu thầu		procurement|tender|tendering|bid	business
+environmental protection	bảo vệ môi trường		protection of the environment|protect the environment	admin
+environmental impact assessment	đánh giá tác động môi trường		eia	admin
+road traffic	giao thông đường bộ		road transport	admin
+driving licence	giấy phép lái xe		driving license|driver's license|driver license|driver's licence	admin
+construction permit	giấy phép xây dựng		building permit	real_estate
+fire prevention and fighting	phòng cháy và chữa cháy	phòng cháy chữa cháy	fire prevention and firefighting|fire safety|fire prevention and control|fire fighting	admin
+food safety	an toàn thực phẩm		food hygiene and safety	admin
+land use right	quyền sử dụng đất		land-use right|right to use land|land use rights	land
+land use right certificate	giấy chứng nhận quyền sử dụng đất		certificate of land use right|certificate of land use rights|land use rights certificate|land-use right certificate	land
+land allocation	giao đất		allocation of land|allocate land|land assignment	land
+land lease	cho thuê đất	thuê đất	lease of land|land rental|lease land	land
+land expropriation	thu hồi đất		land recovery|land acquisition|land withdrawal|recovery of land|expropriation of land|land revocation|land retrieval|land reclamation|revoke land|recover land|withdraw land|expropriate land	land
+land price	giá đất		price of land	land
+land use planning	quy hoạch sử dụng đất		land use plan|land-use planning|land use master plan	land
+housing	nhà ở		dwelling|dwelling house	real_estate
+real estate	bất động sản		real property|immovable property|immovables	real_estate
+real estate business	kinh doanh bất động sản		real estate trading|trading of real estate	real_estate
+condominium	nhà chung cư	chung cư	apartment building|condominium building	real_estate
+social housing	nhà ở xã hội			real_estate
+land user	người sử dụng đất		land-user	land
+cadastral	địa chính		cadastre|land administration	land
+project developer	chủ đầu tư		project owner|developer|investor	real_estate
+land use levy	tiền sử dụng đất		land use fee|land levy|land use levies	land
+land rent	tiền thuê đất		land rental|land rental fee	land
+agricultural land	đất nông nghiệp			land
+residential land	đất ở		homestead land|land for housing	land
+non-agricultural land	đất phi nông nghiệp		non agricultural land	land
+industrial park	khu công nghiệp		industrial zone|industrial estate	real_estate
+economic zone	khu kinh tế		economic zones	real_estate
+crime	tội phạm		criminal offence|criminal offense	criminal
+criminal liability	trách nhiệm hình sự		criminal responsibility|penal liability|penal responsibility|criminally liable	criminal
+imprisonment	phạt tù	tù có thời hạn|tù	prison|jail|term of imprisonment	criminal
+life imprisonment	tù chung thân		life sentence	criminal
+death penalty	tử hình		death sentence|capital punishment	criminal
+non-custodial reform	cải tạo không giam giữ		non-custodial rehabilitation|non-custodial reformation|community sentence	criminal
+first-instance	sơ thẩm		first instance|court of first instance	litigation
+appellate trial	phúc thẩm		appellate|second instance|appeal hearing|appellate review	litigation
+cassation	giám đốc thẩm		cassation review|cassation trial	litigation
+reopening	tái thẩm		reopening review|reopening trial|retrial	litigation
+accused person	bị can		accused|the accused|suspect	criminal
+witness	người làm chứng		witnesses	litigation
+defense counsel	người bào chữa		defence counsel|defender|defense lawyer|defence lawyer	criminal
+temporary detention	tạm giam		pretrial detention|remand in custody|detention	criminal
+arrest	bắt giữ	bắt người|bắt tạm giam	arrested|apprehend	criminal
+judgment	bản án		judgement|verdict	litigation
+extenuating circumstances	tình tiết giảm nhẹ		mitigating circumstances|mitigating circumstance|extenuating circumstance|mitigating factors	criminal
+aggravating circumstances	tình tiết tăng nặng		aggravating circumstance|aggravating factors	criminal
+commercial legal entity	pháp nhân thương mại		commercial juridical person|commercial legal person|corporate legal entity	criminal
+embezzlement	tham ô		embezzle|embezzling	criminal
+taking bribes	nhận hối lộ		accepting bribes|receiving bribes|bribe-taking	criminal
+corruption	tham nhũng		corrupt	criminal
+smuggling	buôn lậu		smuggle	criminal
+narcotics	ma túy	chất ma túy	narcotic|drugs|drug|narcotic substances	criminal
+theft	trộm cắp		stealing|larceny|steal	criminal
+money laundering	rửa tiền		launder money	criminal
+gambling	đánh bạc		gamble	criminal
+human trafficking	mua bán người		trafficking in persons|trafficking in humans|human-trafficking	criminal
+criminal procedure	tố tụng hình sự		criminal proceedings	criminal
+judicial record	lý lịch tư pháp		criminal record|judicial records	legal_services
+amnesty	đặc xá		special amnesty	criminal
+reformatory	trường giáo dưỡng		reform school|reform schools	admin
+civil procedure	tố tụng dân sự		civil proceedings	litigation
+lawsuit	vụ án		court case|criminal case|civil case|administrative case	litigation
+plaintiff	nguyên đơn		claimant|plaintiffs	litigation
+court fee	án phí		court fees|court costs|legal costs	litigation
+enforcement of judgment	thi hành án		judgment enforcement|judgment execution|execution of judgment|enforcement of judgments	litigation
+civil judgment enforcement	thi hành án dân sự		civil judgment execution|enforcement of civil judgments	litigation
+interim measures	biện pháp khẩn cấp tạm thời		provisional urgent measures|temporary urgent measures|emergency provisional measures|interim emergency measures|provisional emergency measures	litigation
+dispute settlement	giải quyết tranh chấp		dispute resolution|settle disputes|resolution of disputes|settlement of disputes|settle a dispute	litigation
+dispute	tranh chấp		disputes|disputed|controversy	litigation
+legally effective	có hiệu lực pháp luật		takes legal effect|legal effect|become legally effective|legally enforceable	litigation
+letter of authorization	giấy ủy quyền	văn bản ủy quyền	power of attorney|letter of authority|authorization letter|written authorization	civil
+intellectual property	sở hữu trí tuệ		ip	ip
+industrial property	sở hữu công nghiệp			ip
+copyright	quyền tác giả		copyrights|author's right|author's rights	ip
+trade name	tên thương mại		business name	ip
+invention	sáng chế		inventions|patent	ip
+patent	bằng độc quyền sáng chế	bằng sáng chế	invention patent|patents	ip
+industrial design	kiểu dáng công nghiệp		industrial designs	ip
+geographical indication	chỉ dẫn địa lý		geographical indications	ip
+trade secret	bí mật kinh doanh		business secret|business secrets|trade secrets	ip
+layout design	thiết kế bố trí		layout-design|layout designs|layout design of semiconductor integrated circuit	ip
+plant variety	giống cây trồng		plant varieties|new plant variety	ip
+protection title	văn bằng bảo hộ		protection titles|certificate of protection|protection certificate	ip
+copyright holder	chủ sở hữu quyền tác giả		copyright owner|owner of copyright	ip
+intellectual property office	cục sở hữu trí tuệ		national office of intellectual property|ip office|noip	ip
+novelty	tính mới		novel	ip
+unfair competition	cạnh tranh không lành mạnh		unfair competitive practices|unfair competitive practice	ip
+prohibited acts	hành vi bị nghiêm cấm	các hành vi bị nghiêm cấm	prohibited act|banned acts|forbidden acts|strictly prohibited acts	general
+legitimate rights and interests	quyền và lợi ích hợp pháp		lawful rights and interests|legal rights and interests|legitimate rights and benefits	general
+state secret	bí mật nhà nước		state secrets	general
+electronic transaction	giao dịch điện tử		e-transaction|electronic transactions	general
+digital signature	chữ ký số		digital signatures	general
+cyberspace	không gian mạng		cyber space	general
+foreigner	người nước ngoài		foreigners|foreign national|foreign nationals|alien	general
+foreign investor	nhà đầu tư nước ngoài		foreign investors	business
+visa	thị thực		visas	admin
+passport	hộ chiếu		passports	admin
+consular legalization	hợp pháp hóa lãnh sự		consular legalisation|legalization|legalisation	legal_services
+centrally-run city	thành phố trực thuộc trung ương		centrally affiliated city|central-affiliated city|city directly under the central government|centrally run city|centrally-affiliated city|central-affiliated cities	admin
+department of justice	sở tư pháp		justice department|provincial department of justice|service of justice	institution
+public interest	lợi ích công cộng		public interests|public benefit	general
+national defense and security	quốc phòng an ninh	quốc phòng và an ninh	national defence and security|defense and security|defence and security	general
+social order and safety	trật tự an toàn xã hội		social order and security|public order and safety|social safety and order	general
+sovereignty	chủ quyền		sovereign	general
+administrative decision	quyết định hành chính		administrative decisions	admin
+administrative act	hành vi hành chính		administrative acts	admin
+disciplinary action	kỷ luật		discipline|disciplinary|disciplinary measures	admin
+extradition	dẫn độ		extradite	legal_services
+#DROPPED	official letter	công văn		official dispatch|dispatch	instrument
+#DROPPED	consolidated document	văn bản hợp nhất		consolidated text	instrument
+#DROPPED	charter	điều lệ		statute|statutes	instrument
+#DROPPED	section	mục			structure
+#DROPPED	implementation provisions	điều khoản thi hành	tổ chức thực hiện	implementing provisions|organization of implementation	structure
+#DROPPED	recipients	nơi nhận		recipient	structure
+#DROPPED	ministry of home affairs	bộ nội vụ		ministry of interior|ministry of internal affairs	institution
+#DROPPED	people's assessor	hội thẩm nhân dân	hội thẩm	people's juror|assessor|juror	litigation
+#DROPPED	enforcer	chấp hành viên		enforcement officer|executor|judgment enforcer	litigation
+#DROPPED	customs	hải quan			institution
+#DROPPED	notary	công chứng viên		notary public	legal_services
+#DROPPED	certification	chứng thực		certify|certified|authentication|attestation	legal_services
+#DROPPED	bar association	đoàn luật sư		bar	legal_services
+#DROPPED	legal representative	người đại diện theo pháp luật	người đại diện hợp pháp|đại diện theo pháp luật	at-law representative|legal representation	civil
+#DROPPED	authorized representative	người đại diện theo ủy quyền		authorised representative|representative by authorization|authorized representatives	civil
+#DROPPED	price appraisal	thẩm định giá		valuation|appraisal	business
+#DROPPED	civil legal capacity	năng lực pháp luật dân sự		legal capacity	civil
+#DROPPED	estate	di sản		legacy	civil
+#DROPPED	deposit	đặt cọc		earnest money	civil
+#DROPPED	guarantee	bảo lãnh		guaranty|surety|guarantor	civil
+#DROPPED	loan	cho vay	vay|khoản vay	borrow|lend|lending|borrowing	civil
+#DROPPED	gift	tặng cho		donation|donate|give as a gift	civil
+#DROPPED	purchase and sale	mua bán		sale|sell|purchase	civil
+#DROPPED	transfer	chuyển nhượng		assignment|assign|transferred	civil
+#DROPPED	alimony	cấp dưỡng		maintenance|support obligation|child support	family
+#DROPPED	adoption	nuôi con nuôi		adopt|adopted child|adoptive	family
+#DROPPED	employer	người sử dụng lao động		employers	labour
+#DROPPED	employee	người lao động	nhân viên	worker|workers	labour
+#DROPPED	trade union	công đoàn		labor union|labour union|union	labour
+#DROPPED	salary	tiền lương	lương	wage|wages	labour
+#DROPPED	deprivation of the right to use licenses	tước quyền sử dụng giấy phép		revocation of license|stripping of the right to use|suspension of the right to use|deprivation of the right to use	admin
+#DROPPED	civil servant	công chức		public official|public servant	admin
+#DROPPED	public service	dịch vụ công		public services	admin
+#DROPPED	enterprise registration	đăng ký doanh nghiệp		enterprise registration certificate|business registration	business
+#DROPPED	branch	chi nhánh		branches	business
+#DROPPED	shareholder	cổ đông		stockholder	business
+#DROPPED	general meeting of shareholders	đại hội đồng cổ đông		shareholders meeting|shareholders' meeting|general shareholders meeting	business
+#DROPPED	board of directors	hội đồng quản trị		management board	business
+#DROPPED	members' council	hội đồng thành viên		board of members|members council|council of members|member council	business
+#DROPPED	accounting	kế toán		accountant|accounts	tax
+#DROPPED	vehicle	phương tiện		vehicles|means of transport	admin
+#DROPPED	alcohol concentration	nồng độ cồn		alcohol content|alcohol level|blood alcohol	admin
+#DROPPED	medical examination and treatment	khám bệnh chữa bệnh		healthcare|medical treatment|medical examination	admin
+#DROPPED	resettlement	tái định cư		relocation	land
+#DROPPED	land-attached assets	tài sản gắn liền với đất		property attached to land|assets attached to land|land-attached properties|land attached assets	land
+#DROPPED	offender	người phạm tội		perpetrator|criminal|person committing the crime|person who commits the crime	criminal
+#DROPPED	punishment	hình phạt		penalty|sentence|penalties	criminal
+#DROPPED	suspended sentence	án treo		probation	criminal
+#DROPPED	prosecution	truy tố		prosecute|prosecuted|indict	criminal
+#DROPPED	indictment	cáo trạng		bill of indictment	criminal
+#DROPPED	appeal	kháng cáo		appeals|appellant	litigation
+#DROPPED	protest	kháng nghị		appeal|objection	litigation
+#DROPPED	defendant	bị cáo		accused	criminal
+#DROPPED	victim	bị hại	người bị hại|nạn nhân	victims|injured party|aggrieved party	criminal
+#DROPPED	temporary custody	tạm giữ		custody|held in custody	criminal
+#DROPPED	evidence	chứng cứ	bằng chứng	proof|evidences	litigation
+#DROPPED	fraud	lừa đảo		swindling|defraud|fraudulent	criminal
+#DROPPED	giving bribes	đưa hối lộ		offering bribes|bribe-giving|bribing	criminal
+#DROPPED	murder	giết người		homicide|killing|kill	criminal
+#DROPPED	robbery	cướp tài sản	cướp	rob|robbing	criminal
+#DROPPED	intentional infliction of injury	cố ý gây thương tích		deliberately inflicting injury|intentionally causing injury|intentional injury|intentionally inflicting injury	criminal
+#DROPPED	counterfeit goods	hàng giả		fake goods|counterfeit	criminal
+#DROPPED	drug rehabilitation	cai nghiện ma túy	cai nghiện	drug detoxification|drug addiction treatment|drug rehab	admin
+#DROPPED	administrative litigation	tố tụng hành chính		administrative procedure|administrative proceedings	litigation
+#DROPPED	statement of claim	đơn khởi kiện		lawsuit petition|petition|complaint	litigation
+#DROPPED	initiate a lawsuit	khởi kiện		sue|file a lawsuit|institute a lawsuit|bring a lawsuit	litigation
+#DROPPED	civil defendant	bị đơn		respondent|defendant	litigation
+#DROPPED	persons with related rights and obligations	người có quyền lợi nghĩa vụ liên quan		person with related rights and obligations|persons with related interests and obligations|related parties|person with relevant rights and obligations	litigation
+#DROPPED	litigant	đương sự		involved parties|involved party|parties concerned|litigants|the parties	litigation
+#DROPPED	court hearing	phiên tòa		hearing|court session|trial	litigation
+#DROPPED	court charge	lệ phí tòa án		court charges|court fee	litigation
+#DROPPED	procedure-conducting agency	cơ quan tiến hành tố tụng		procedure-conducting agencies|procedural agency|proceeding-conducting agency|agencies conducting proceedings	litigation
+#DROPPED	procedure-conducting person	người tiến hành tố tụng		procedure-conducting persons|persons conducting proceedings|proceeding-conducting person	litigation
+#DROPPED	participants in proceedings	người tham gia tố tụng		participants in the proceedings|procedure participants|proceeding participants|participant in proceedings	litigation
+#DROPPED	related rights	quyền liên quan		neighboring rights|neighbouring rights|copyright-related rights|related right	ip
+#DROPPED	trademark	nhãn hiệu		trade mark|trademarks	ip
+#DROPPED	author	tác giả		authors	ip
+#DROPPED	work	tác phẩm		works|literary work|artistic work	ip
+#DROPPED	registration application	đơn đăng ký		application for registration|registration applications	ip
+#DROPPED	right of priority	quyền ưu tiên		priority right|priority	ip
+#DROPPED	inventive step	trình độ sáng tạo		inventive level|inventiveness	ip
+#DROPPED	royalties	nhuận bút		royalty|remuneration	ip
+#DROPPED	personal data	dữ liệu cá nhân		personal information	general
+#DROPPED	overseas vietnamese	người việt nam định cư ở nước ngoài		vietnamese residing abroad|vietnamese people residing overseas|vietnamese residing overseas	general
+#DROPPED	official gazette	công báo		gazette	general
+#DROPPED	guiding the implementation	hướng dẫn thi hành		guidance on implementation|guidelines for implementation|providing guidance on|guiding implementation	general
+#DROPPED	dismissal	buộc thôi việc		forced dismissal|forced resignation|dismissed	admin
+#DROPPED	reprimand	khiển trách		reprimanded	admin
+#DROPPED	coercion	cưỡng chế		coercive|enforce|enforcement|forcible|coerce	admin
+#DROPPED	notary office	văn phòng công chứng		notary offices|notarial office	legal_services
+#DROPPED	notarial practice organization	tổ chức hành nghề công chứng		notarial practice organizations|notary practice organization|notarial organization	legal_services
+#DROPPED	lawyer's practising certificate	chứng chỉ hành nghề luật sư		lawyer practice certificate|lawyer's practicing certificate|law practice certificate|lawyer's practice certificate	legal_services
+#DROPPED	legal dissemination and education	phổ biến giáo dục pháp luật		legal dissemination|dissemination and education of law|law dissemination and education|dissemination of law|dissemination and education of laws	legal_services
+#DROPPED	grassroots mediation	hòa giải ở cơ sở		grassroots conciliation|mediation at grassroots level|conciliation at grassroots level	legal_services
+#DROPPED	mutual legal assistance	tương trợ tư pháp		judicial assistance|legal assistance	legal_services
+#DROPPED	state compensation	bồi thường nhà nước		state compensation liability|state liability for compensation	legal_services

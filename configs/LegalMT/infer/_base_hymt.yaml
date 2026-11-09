@@ -1,0 +1,34 @@
+model:
+  family: hymt
+
+prompt:
+  template: default
+  mode: generation_prompt
+  context_mode: none
+  context_template: contextual
+  lang_names: en
+
+chunking:
+  budget_tokens:
+    en2vi: 1000
+    vi2en: 1600
+  cut_before_heading: true
+  min_fill_before_heading_cut: 0.5
+  max_unit_tokens: null
+  max_units_per_chunk: null
+
+generation:
+  do_sample: false
+  repetition_penalty: 1.0
+  seed: 0
+  max_new_tokens_ratio:
+    en2vi: 2.7
+    vi2en: 1.3
+  max_new_tokens_margin: 64
+  max_new_tokens_cap: 4096
+
+render:
+  blank_between_paragraphs: source
+  rewrap_width: null
+
+lora_adapter: null

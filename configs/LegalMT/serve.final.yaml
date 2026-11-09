@@ -1,0 +1,17 @@
+infer_config: configs/LegalMT/infer/hymt2_final_graphs.yaml
+
+overrides:
+  backend:
+    kv_cache_memory_bytes: 3221225472
+    gpu_memory_utilization: 0.35
+
+server:
+  host: 0.0.0.0
+  port: 8000
+  max_body_bytes: 67108864
+  warmup: true
+  newline: auto
+  memory_sample_interval: 1.0
+  shutdown_grace_seconds: 30
+  socket_timeout_seconds: 300
+  log_level: INFO

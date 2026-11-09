@@ -1,0 +1,19 @@
+extends: _base_hymt.yaml
+
+model:
+  repo_id: tencent/HY-MT1.5-1.8B
+  revision: dbad03788f49709801014c95d481a514c272ca52
+
+backend:
+  name: vllm
+  dtype: bfloat16
+  gpu_memory_utilization: 0.6
+  max_model_len: 8192
+  enforce_eager: true
+  max_num_seqs: 64
+  max_num_batched_tokens: null
+  kv_cache_memory_bytes: null
+  quantization: null
+  generation_config: vllm
+  max_lora_rank: 64
+  progress: false

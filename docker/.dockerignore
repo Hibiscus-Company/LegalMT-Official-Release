@@ -1,0 +1,17 @@
+data
+**/data/raw
+**/*.csv
+docs
+tests
+.venv
+**/.venv
+**/__pycache__
+**/*.pyc
+.pytest_cache
+.git
+.gitignore
+*.tar
+*.tar.gz
+*.md5
+**/*.log
+BUILD_INFO.txt

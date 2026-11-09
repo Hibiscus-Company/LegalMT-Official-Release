@@ -1,0 +1,24 @@
+extends: _base_hymt_lora.yaml
+run_tag: lora_smoke
+
+model:
+  family: hymt
+  repo_id: tencent/HY-MT1.5-1.8B
+  revision: dbad03788f49709801014c95d481a514c272ca52
+  local_path: null
+  dtype: bfloat16
+  attn_implementation: sdpa
+
+data:
+  max_seq_len: 1024
+  token_budget: null
+  order_seed: 1
+  eval_max_examples: 16
+
+training:
+  seed: 1
+  max_steps: 20
+  gradient_accumulation_steps: 4
+  logging_steps: 2
+  eval_steps: 10
+  save_steps: 10

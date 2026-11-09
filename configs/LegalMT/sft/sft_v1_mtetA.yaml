@@ -1,0 +1,35 @@
+name: sft_v1_mtetA
+description: "sft_v1 (joined centred caps titles, aligned v1) + MTet legal (decontaminated: dev/public-test overlap removed), 20M extra tokens, extra seed 20260926"
+
+aligned_version: v1
+split_version: v0
+infer_config: hymt15_hf_greedy
+infer_overrides: {layout: {join_centred_caps: true}}
+
+directions: [en2vi, vi2en]
+
+filters:
+  methods: [zip, gc, header]
+  links: ["1-1", "1-2", "2-1", "2-2", header]
+  len_ratio: null
+  min_num_f1: null
+
+packing:
+  oversize_links: drop
+  break_at_gaps: false
+  max_total_tokens: 4096
+
+context:
+  p: 0.0
+
+seed: 20260925
+
+max_train_tokens: null
+
+extra:
+  - name: mtet_legal
+    path: mtet_2026-09-26/mtet_legal_clean.jsonl
+    max_tokens: 20000000
+    seed: 20260926
+    max_lines: 40
+    block_pairs: 1000

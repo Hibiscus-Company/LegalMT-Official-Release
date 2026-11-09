@@ -1,0 +1,36 @@
+version: v1
+
+gc:
+  c: 0.8952
+  s2: 3.994
+  priors: {"1-1": 0.89, "1-0": 0.005, "0-1": 0.005, "2-1": 0.0445, "1-2": 0.0445, "2-2": 0.011}
+  band: 60
+  band_slack: 20
+  skip_cost: 6.0
+  num_mode: table
+  num_table: {one_sided: 4.337, f1_lt_034: 4.152, f1_lt_08: 2.667, f1_ge_08: -3.048}
+  num_weight: 3.87
+
+filters:
+  ratio_factor: 1.8
+  min_num_f1: 0.34
+  min_numbers: 2
+  drop_unaligned: true
+
+numbers:
+  min_digits: 2
+
+layout: {join_centred_caps: true}
+
+build:
+  workers: 8
+  data_quality: data_quality_v0
+
+fit_provenance:
+  date: "2026-09-25"
+  command: "uv run python scripts/LegalMT/build_aligned.py --fit"
+  data: "train minus 9 broken pairs and 18 second members of identical pairs (827 docs)"
+  sample: "194,559 zipped body paragraph pairs (equal-count anchor chunks), filters not applied"
+  code_fingerprint: 7c899bc81c78493a660f657e55d0a2adfdaa068d1b0fcad9a60be4e57f273796
+  length_model: {c: 0.895178, s2_clipped: 3.99447, s2_unclipped: 5.16276, s2_mad: 3.12758, median_sq_residual: 1.43527, clipped_share: 0.00538}
+  numeric_table_counts: "aligned 194,559 (none 131,041 / one_sided 953 / f1<0.34 363 / f1<0.8 789 / f1>=0.8 61,413); shifted 169,162 (91,891 / 51,085 / 16,180 / 7,963 / 2,043)"

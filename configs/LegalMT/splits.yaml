@@ -1,0 +1,26 @@
+v0:
+  seed: 20260925
+  dev_size: 40
+  dev_quotas:
+    Bat_dong_san: 4
+    Dich_vu_phap_ly: 4
+    Quyen_dan_su: 9
+    So_huu_tri_tue: 4
+    Thu_tuc_to_tung: 4
+    Trach_nhiem_hinh_su: 5
+    Vi_pham_hanh_chinh: 10
+  dev_mini_size: 12
+  near_duplicates:
+    shingle_n: 5
+    threshold: 0.8
+    near_relative_threshold: 0.5
+    measures:
+      exact: null
+      boilerplate_df50: 50
+    sample_k: 1
+  language_vi_share_threshold: 0.2
+  length_ratio_flag: [0.6, 1.3]
+  tokens_per_word_estimate:
+    en: 1.411
+    vi: 1.716
+  data_quality_config: data_quality_v0

@@ -1,0 +1,20 @@
+extends: _base_hymt_lora.yaml
+run_tag: lora_pilot3M
+
+model:
+  family: hymt
+  repo_id: tencent/HY-MT1.5-1.8B
+  revision: dbad03788f49709801014c95d481a514c272ca52
+  local_path: null
+  dtype: bfloat16
+  attn_implementation: sdpa
+
+data:
+  token_budget: 3000000
+  order_seed: 1
+
+training:
+  seed: 1
+  max_steps: null
+  eval_steps: 25
+  save_steps: 25

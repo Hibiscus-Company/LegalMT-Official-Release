@@ -1,0 +1,9 @@
+extends: hymt15_hf_greedy.yaml
+
+generation:
+  do_sample: true
+  temperature: 0.7
+  top_k: 20
+  top_p: 0.6
+  repetition_penalty: 1.05
+  seed: 0

@@ -1,0 +1,30 @@
+name: sft_v1_final
+description: "FINAL: aligned v1 links (join_centred_caps), split v0 (train_fit -> train, dev -> dev), inference budgets en2vi 1000 / vi2en 1600; train = train_fit + dev + public test"
+
+aligned_version: v1
+split_version: v0
+infer_config: hymt15_hf_greedy
+infer_overrides: {layout: {join_centred_caps: true}}
+
+directions: [en2vi, vi2en]
+
+filters:
+  methods: [zip, gc, header]
+  links: ["1-1", "1-2", "2-1", "2-2", header]
+  len_ratio: null
+  min_num_f1: null
+
+packing:
+  oversize_links: drop
+  break_at_gaps: false
+  max_total_tokens: 4096
+
+context:
+  p: 0.0
+
+seed: 20260925
+
+max_train_tokens: null
+
+final:
+  public_test: true

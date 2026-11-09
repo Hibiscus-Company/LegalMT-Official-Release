@@ -1,0 +1,8 @@
+extends: echo_smoke.yaml
+
+model:
+  repo_id: tencent/HY-MT1.5-1.8B
+  revision: dbad03788f49709801014c95d481a514c272ca52
+
+backend:
+  tokenizer: model

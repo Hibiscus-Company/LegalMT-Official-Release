@@ -1,0 +1,42 @@
+version: v0
+checked: 2026-09-25
+
+broken_pairs:
+  swapped:
+    - Dich_vu_phap_ly/23
+    - Quyen_dan_su/305
+    - So_huu_tri_tue/139
+  both_vietnamese:
+    - Quyen_dan_su/433
+    - Trach_nhiem_hinh_su/3
+    - Trach_nhiem_hinh_su/70
+    - Vi_pham_hanh_chinh/61
+    - So_huu_tri_tue/31
+  both_english:
+    - So_huu_tri_tue/63
+
+identical_pairs:
+  - [Quyen_dan_su/153, Thu_tuc_to_tung/138]
+  - [Quyen_dan_su/162, Thu_tuc_to_tung/140]
+  - [Quyen_dan_su/307, Thu_tuc_to_tung/246]
+  - [Quyen_dan_su/308, Thu_tuc_to_tung/247]
+  - [Quyen_dan_su/322, Thu_tuc_to_tung/254]
+  - [So_huu_tri_tue/102, Trach_nhiem_hinh_su/122]
+  - [So_huu_tri_tue/15, Vi_pham_hanh_chinh/46]
+  - [So_huu_tri_tue/3, Vi_pham_hanh_chinh/15]
+  - [So_huu_tri_tue/33, Vi_pham_hanh_chinh/122]
+  - [Trach_nhiem_hinh_su/144, Vi_pham_hanh_chinh/429]
+  - [Trach_nhiem_hinh_su/145, Vi_pham_hanh_chinh/430]
+  - [Trach_nhiem_hinh_su/149, Vi_pham_hanh_chinh/436]
+  - [Trach_nhiem_hinh_su/151, Vi_pham_hanh_chinh/438]
+  - [Trach_nhiem_hinh_su/166, Vi_pham_hanh_chinh/510]
+  - [Trach_nhiem_hinh_su/35, Vi_pham_hanh_chinh/75]
+  - [Trach_nhiem_hinh_su/47, Trach_nhiem_hinh_su/48]
+  - [Trach_nhiem_hinh_su/60, Vi_pham_hanh_chinh/156]
+  - [Vi_pham_hanh_chinh/83, Vi_pham_hanh_chinh/84]
+
+public_test_reference_notes:
+  - sample_id: Quyen_dan_su/390
+    note: "VI/EN char ratio 1.987: the EN reference stops after the signature, the VI side adds forms (about 58% of VI chars unaligned)."
+  - sample_id: Trach_nhiem_hinh_su/140
+    note: "VI/EN char ratio 0.556."

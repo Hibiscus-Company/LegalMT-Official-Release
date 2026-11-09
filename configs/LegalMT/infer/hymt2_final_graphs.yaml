@@ -1,0 +1,3 @@
+extends: hymt2_vllm_graphs.yaml
+layout:
+  join_centred_caps: true

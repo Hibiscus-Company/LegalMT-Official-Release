@@ -1,0 +1,5 @@
+extends: hymt15_hf_greedy.yaml
+
+model:
+  repo_id: tencent/Hy-MT2-1.8B
+  revision: 9a341cd1b679d3efd23b46e847b01745a71ed792

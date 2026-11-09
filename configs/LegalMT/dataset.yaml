@@ -1,0 +1,3 @@
+expected_rows:
+  train: 854
+  public_test: 50

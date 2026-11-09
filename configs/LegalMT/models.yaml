@@ -1,0 +1,318 @@
+hf_home_default: ~/.cache/huggingface
+cap:
+  text: "fewer than 3B parameters (final model)"
+  max_params_exclusive: 3000000000
+
+models:
+  - repo_id: tencent/HY-MT1.5-1.8B
+    params: 2038515712
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: "Tencent HY Community License (License.txt in repo; no HF licence tag). Not valid in EU, UK, South Korea."
+    role: base_candidate
+    downloaded: true
+    revision: dbad03788f49709801014c95d481a514c272ca52
+    checked_sha: dbad03788f49709801014c95d481a514c272ca52
+    download_gb: 4.087
+    weights_gb: 4.077
+    disk_gb: 4.087
+  - repo_id: tencent/Hy-MT2-1.8B
+    params: 2038515712
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: base_candidate
+    downloaded: true
+    revision: 9a341cd1b679d3efd23b46e847b01745a71ed792
+    checked_sha: 9a341cd1b679d3efd23b46e847b01745a71ed792
+    download_gb: 4.091
+    weights_gb: 4.077
+    disk_gb: 4.091
+  - repo_id: tencent/HY-MT1.5-1.8B-GPTQ-Int4
+    params: 1791080448
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: "Tencent HY Community License (License.txt in repo; no HF licence tag)"
+    role: quantized_variant
+    downloaded: false
+    revision: 614b90aaac3987fbe4d6b3c976000b8c996cf5ca
+    checked_sha: 614b90aaac3987fbe4d6b3c976000b8c996cf5ca
+    download_gb: 1.339
+    weights_gb: 1.330
+    disk_gb: 1.339
+  - repo_id: tencent/HY-MT1.5-1.8B-FP8
+    params: 1791080896
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: "Tencent HY Community License (no HF licence tag)"
+    role: quantized_variant
+    downloaded: false
+    revision: null
+    checked_sha: d6a25004e1c42c06e90731f6889dab522dc2d68a
+    download_gb: 2.048
+    weights_gb: 2.039
+    disk_gb: null
+  - repo_id: tencent/HY-MT1.5-7B
+    params: 8029540352
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: "Tencent HY Community License (no HF licence tag)"
+    role: teacher_candidate_OPEN
+    downloaded: false
+    revision: null
+    checked_sha: 397085d46158ad0b437ffd74228499e8c2a35c76
+    download_gb: 16.076
+    weights_gb: 16.059
+    disk_gb: null
+  - repo_id: tencent/HY-MT1.5-7B-GPTQ-Int4
+    params: 7504568320
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: "Tencent HY Community License (no HF licence tag)"
+    role: teacher_candidate_OPEN
+    downloaded: false
+    revision: null
+    checked_sha: a73e2743499fcc9cab97b7d43df9aa90d33f67fd
+    download_gb: 4.834
+    weights_gb: 4.818
+    disk_gb: null
+  - repo_id: Qwen/Qwen3-1.7B
+    params: 2031739904
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 70d244cc86ccca08cf5af4e1e306ecf908b1ad5e
+    download_gb: 4.079
+    weights_gb: 4.064
+    disk_gb: null
+  - repo_id: Qwen/Qwen3.5-2B
+    params: 2274069824
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 15852e8c16360a2fea060d615a32b45270f8a8fc
+    download_gb: 4.571
+    weights_gb: 4.548
+    disk_gb: null
+  - repo_id: Qwen/Qwen3.5-0.8B
+    params: 873438784
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 2fc06364715b967f1860aea9cf38778875588b17
+    download_gb: 1.770
+    weights_gb: 1.747
+    disk_gb: null
+  - repo_id: Qwen/Qwen2.5-1.5B-Instruct
+    params: 1543714304
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 989aa7980e4cf806f80c7fef2b1adb7bc71aa306
+    download_gb: 3.099
+    weights_gb: 3.087
+    disk_gb: null
+  - repo_id: Unbabel/Tower-Plus-2B
+    params: 2614341888
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: cc-by-nc-sa-4.0
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 4d779ca939174189c0677d4a75642d36d6a33b66
+    download_gb: 5.263
+    weights_gb: 5.229
+    disk_gb: null
+  - repo_id: google/gemma-2-2b-it
+    params: 2614341888
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: gemma
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 299a8560bedf22ed1c72a8a11e7dce4a7f9f51f8
+    download_gb: 5.251
+    weights_gb: 5.229
+    disk_gb: null
+  - repo_id: meta-llama/Llama-3.2-1B
+    params: 1235814400
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: llama3.2
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 4e20de362430cd3b72f300e6b0f18e50e7166e08
+    download_gb: 4.955
+    weights_gb: 2.472
+    disk_gb: null
+  - repo_id: Qwen/Qwen2.5-3B-Instruct
+    params: 3085938688
+    params_checked: 2026-09-25
+    under_cap: ambiguous
+    under_cap_literal: false
+    licence: "other (qwen-research, per model card license_name)"
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: aa8e72537993ba99e69dfaafa59ed015b17504d1
+    download_gb: 6.183
+    weights_gb: 6.172
+    disk_gb: null
+  - repo_id: meta-llama/Llama-3.2-3B-Instruct
+    params: 3212749824
+    params_checked: 2026-09-25
+    under_cap: ambiguous
+    under_cap_literal: false
+    licence: llama3.2
+    role: base_candidate
+    downloaded: false
+    revision: null
+    checked_sha: 0cb88a4f764b7a12671c53f0838cd831a0843b95
+    download_gb: 12.863
+    weights_gb: 6.426
+    disk_gb: null
+  - repo_id: google/madlad400-3b-mt
+    params: 2940374016
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: apache-2.0
+    role: baseline_only
+    downloaded: false
+    revision: null
+    checked_sha: fa184c675da0b5c9e1c8694fccd4e12e2d422094
+    download_gb: 15.667
+    weights_gb: 11.762
+    disk_gb: null
+  - repo_id: facebook/nllb-200-distilled-1.3B
+    params: null
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: cc-by-nc-4.0
+    role: baseline_only
+    downloaded: false
+    revision: null
+    checked_sha: 7be3e24664b38ce1cac29b8aeed6911aa0cf0576
+    download_gb: 5.505
+    weights_gb: 0.0
+    disk_gb: null
+  - repo_id: vinai/vinai-translate-en2vi-v2
+    params: null
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: agpl-3.0
+    role: baseline_only
+    downloaded: false
+    revision: null
+    checked_sha: 82f8c91bd22e82085186b45a8a76373f5a79f667
+    download_gb: 1.695
+    weights_gb: 0.0
+    disk_gb: null
+  - repo_id: VietAI/envit5-translation
+    params: null
+    params_checked: 2026-09-25
+    under_cap: true
+    under_cap_literal: true
+    licence: openrail
+    role: baseline_only
+    downloaded: false
+    revision: null
+    checked_sha: 840bc88104d5a4277af740eaedb024df8c3093e7
+    download_gb: 3.307
+    weights_gb: 0.0
+    disk_gb: null
+  - repo_id: HuggingFaceTB/SmolLM3-3B
+    params: 3075098624
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: apache-2.0
+    role: over_cap_reference
+    downloaded: false
+    revision: null
+    checked_sha: a07cc9a04f16550a088caea529712d1d335b0ac1
+    download_gb: 6.168
+    weights_gb: 6.150
+    disk_gb: null
+  - repo_id: sail/Sailor2-3B-Chat
+    params: 3579857408
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: apache-2.0
+    role: over_cap_reference
+    downloaded: false
+    revision: null
+    checked_sha: d60722644e700133576489719dcbc288036628d5
+    download_gb: 7.176
+    weights_gb: 7.160
+    disk_gb: null
+  - repo_id: arcee-ai/Arcee-VyLinh
+    params: 3397103616
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: apache-2.0
+    role: over_cap_reference
+    downloaded: false
+    revision: null
+    checked_sha: 5f9751c095cdfa14c2e77489f8aef8a037da1b1c
+    download_gb: 13.604
+    weights_gb: 13.588
+    disk_gb: null
+  - repo_id: google/translategemma-4b-it
+    params: 4971331952
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: gemma
+    role: over_cap_reference
+    downloaded: false
+    revision: null
+    checked_sha: 10042cb0e6e7fdce748996a71dc3dc432a4e0c89
+    download_gb: 8.640
+    weights_gb: 8.600
+    disk_gb: null
+  - repo_id: google/gemma-3n-E2B-it
+    params: 5439438272
+    params_checked: 2026-09-25
+    under_cap: false
+    under_cap_literal: false
+    licence: gemma
+    role: over_cap_reference
+    downloaded: false
+    revision: null
+    checked_sha: 5e092ebca197cdcd8d8b195040accf22693501bc
+    download_gb: 10.923
+    weights_gb: 10.879
+    disk_gb: null

@@ -1,0 +1,8 @@
+extends: hymt2_vllm_greedy.yaml
+
+backend:
+  enforce_eager: false
+  hf_overrides:
+    rope_parameters:
+      rope_type: default
+      rope_theta: 11158839.92507748
